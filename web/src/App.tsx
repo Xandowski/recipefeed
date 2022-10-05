@@ -1,5 +1,6 @@
 import { Auth0Provider } from '@auth0/auth0-react'
 import { Index } from './pages'
+import './styles/main.css'
 
 function App() {
   return (
